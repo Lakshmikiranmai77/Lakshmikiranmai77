@@ -11,8 +11,9 @@
 - 🎓 Tenure : Spring 2022 - Fall 2023 
 - 💬 Ask me about :  Java Frameworks , AWS, Basic leve; Cloud computing  and Devops Tools  
 
-Frameworks- :  **Java, React.js, spring and Spring Boot** 
-DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
+         Frameworks- :  **Java, React.js, spring and Spring Boot**
+  
+         DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
 
 - 🌱 I’m currently learning : **AWS,Azure,Node.js**
   
