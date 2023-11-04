@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hi there 👋, I'm Lakshmi Kiranmai ![counter](https://eng64hrnquaxti9.m.pipedream.net)</h1>
 <h3 align="center">A passionate Software developer located in Wichita, KS </h3>
-<h2 align ="Left"> Academic Profile</h2>
+<h2 align ="Left"> Profile</h2>
 
 - 👩‍🎓 Shocker :  Graduate student at Wichita State University
   
@@ -15,9 +15,13 @@
 
 - 🌱 I’m currently learning : **AWS,Azure,Node.js**
   
-- 🔭 I’m currently working on : Freelance Projects
+- 🔭 I’m currently working on : Freelance Projects 
   
 - 📫 How to reach me : **Luckyfreelancer.co.in@gmail.com** 
   
 - ⚠️ Caution :  But don't ask me to teach you6.  Hahah Just Kidding 😅😂
+
+<p align="left"> <a href="  https://www.linkedin.com/in/guduru-lakshmi-kiranmai-4a8447178/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png
+" alt="Lakshmi kiranmai-sense" height="30" width="40" /></a>
+</p>
 
