@@ -21,6 +21,9 @@
   
 - ⚠️ Caution :  But don't ask me to teach you6.  Hahah Just Kidding 😅😂
 
-<p align="left"> <a href="  https://www.linkedin.com/in/guduru-lakshmi-kiranmai-4a8447178/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Lakshmi kiranmai-sense" height="30" width="40" /></a>
+
+<h3 align="left">Connect with me in My LinkedIn :</h3>
+<p align="left"> 
+  <a href="  https://www.linkedin.com/in/guduru-lakshmi-kiranmai-4a8447178/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Lakshmi kiranmai-sense" height="30" width="40" /></a>
 </p>
 
