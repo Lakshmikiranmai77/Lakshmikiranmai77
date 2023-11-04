@@ -23,9 +23,8 @@
 
 
 <h3 align="left">Catch me up at :</h3>
-<p> 
+
   <a href="https://www.linkedin.com/in/guduru-lakshmi-kiranmai-4a8447178/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Lakshmi kiranmai" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
