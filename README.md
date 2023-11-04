@@ -13,3 +13,12 @@
 
 Frameworks- :  **Java, React.js, spring and Spring Boot** 
 DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
+
+- 🌱 I’m currently learning : **AWS,Azure,Node.js**
+  
+- 🔭 I’m currently working on : Freelance Projects
+  
+- 📫 How to reach me : **Luckyfreelancer.co.in@gmail.com** 
+  
+- ⚠️ Caution :  But don't ask me to teach you6.  Hahah Just Kidding 😅😂
+
