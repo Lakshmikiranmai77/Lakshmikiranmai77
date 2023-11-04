@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Lakshmi Kiranmai ![counter](https://eng64hrnquaxti9.m.pipedream.net)</h1>
+### <h1 align="center"> Hi there 👋, I'm Lakshmi Kiranmai ![counter](https://eng64hrnquaxti9.m.pipedream.net)</h1>
 <h3 align="center">A passionate Software developer located in Wichita, KS </h3>
 
 <h2 align ="Left"> Academic Profile</h2>
