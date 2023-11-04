@@ -22,10 +22,11 @@
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
 
 
-<h3 align="left">Catch me up at :</h3>
+<h3 align="left">Catch me up at :
 
   <a href="https://www.linkedin.com/in/guduru-lakshmi-kiranmai-4a8447178/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Lakshmi kiranmai" height="30" width="40" /></a>
 
+</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
