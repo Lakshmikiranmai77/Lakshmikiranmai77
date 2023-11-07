@@ -89,6 +89,13 @@
          alt="Cloudcore" height="70" width="70" />
     </a>
    </td>
+
+   <td>
+   <a href="https://www.credly.com/badges/cef732d8-0119-415a-84b7-cead1f96c384" target="_blank" rel="noreferrer"> 
+     <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Hadoop_Data_Found_Level_1_-_CC_-_2019.png"
+        alt="Hadoop data foundations" height="70" width="70" />
+   </a>
+   </td>
    
   </tr>
 </table>
