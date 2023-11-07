@@ -9,7 +9,8 @@
 - 🏛 Department :   School of Computing
   
 - 🎓 Tenure : Spring 2022 - Fall 2023
-  # Hackathon
+
+  <h3 align="left"> Hackathon: </h3>
   Participated in I-Innovate - India's First 1 Million Seconds Non Stop Online Hackathon
 - 💬 Ask me about :  Java Frameworks , AWS, Basic leve; Cloud computing  and Devops Tools  
      Frameworks- :  **Java, React.js, spring and Spring Boot**
