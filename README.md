@@ -44,11 +44,15 @@
      <a href ="https://www.credly.com/badges/dc995fca-d391-48a9-9ee4-795e61be54a4"  target="_blank" rel="noreferrer"> 
          <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png" 
            alt="Big Data Foundations - Level 2" height="70" width="70" /> 
-           </a>
+      </a>
    </td>
 
  <td>
-      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Visualization_Using_Python.png" alt="Data Visualization using python" height="50" width="50"  />
+    <a href ="https://www.credly.com/badges/3d69e9ba-07ba-44bf-8d8b-99afd6076b3e"  target="_blank" rel="noreferrer"> 
+         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Visualization_Using_Python.png" 
+           alt= "Data Visualization using python" height="70" width="70" /> 
+      </a>
+    
    </td>
 
 
