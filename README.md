@@ -29,7 +29,7 @@
       <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" alt="Digital Developer Conference: Machine Learning Track" />
     </td>
     <td>
-      <img src="https://github.com/ndrohith09/ndrohith09/assets/73429989/aa0ea163-9ef5-4e20-ada1-402164cd2cb3" alt="participation-prize" />
+      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="participation-prize" />
     </td>
   </tr>
 </table>
