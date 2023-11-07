@@ -32,12 +32,12 @@
         </a>
     </td>
 
-<td>
-  <a href ="https://www.credly.com/badges/979e7e21-d02a-4e52-957b-b5e3d53d6b05"  target="_blank" rel="noreferrer"> 
+  <td>
+    <a href ="https://www.credly.com/badges/979e7e21-d02a-4e52-957b-b5e3d53d6b05"  target="_blank" rel="noreferrer"> 
          <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Analysis_using_Python.png" 
            alt="Data Analysis using Python" height="70" width="70" />
-  </a>        
-</td>
+   </a>        
+  </td>
 
 
    <td>
@@ -52,18 +52,36 @@
          <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Visualization_Using_Python.png" 
            alt= "Data Visualization using python" height="70" width="70" /> 
       </a>
-    
    </td>
 
 
    <td>
-     <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python" height="50" width="50"  />
+     <a href ="https://www.credly.com/badges/8b22fbeb-b19c-40cc-85cd-db45cc05ec03"  target="_blank" rel="noreferrer"> 
+         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" 
+           alt="Applied Data Science with Python" height="70" width="70" /> 
+      </a>
    </td>
+   
+   <td>
+     <a href ="https://www.credly.com/badges/4a59b99d-66b6-4e7a-8a55-e4edfb2dc8c9"  target="_blank" rel="noreferrer"> 
+       <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Spark_Level_1_ver_2_-_CC_-_2019.png" 
+         alt="spark level 1" height="70" width="70" />
+     </a>
+    </td>
+
+   <td>
+    <a href ="https://www.credly.com/badges/79b90ebb-21db-40a2-bba3-45998dece8e3" target="_blank" rel="noreferrer"> 
+       <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/IBM-Blockchain-Essentials-V2.png"
+         alt="Blockchain Essentialsv2" height="70" width="70" />
+    </a>
+   </td>
+
 <td>
-  <p>
-  <a href ="https://www.credly.com/badges/4a59b99d-66b6-4e7a-8a55-e4edfb2dc8c9"  target="_blank" rel="noreferrer"> <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Spark_Level_1_ver_2_-_CC_-_2019.png" alt="spark level 1" height="50" width="50" /></a>
-  
-</td>
+    <a href ="https://www.credly.com/badges/c0094f2b-2863-4efc-879c-5f552fb4a467" target="_blank" rel="noreferrer"> 
+       <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
+         alt="Cloudcore" height="70" width="70" />
+    </a>
+   </td>
    
   </tr>
 </table>
