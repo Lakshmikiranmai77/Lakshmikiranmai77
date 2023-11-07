@@ -34,7 +34,7 @@
 </td>
 
     <td>
-      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python - Level 2" />
+      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python - Level 2"/>
     </td>
 
    <td>
