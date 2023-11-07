@@ -46,7 +46,11 @@
    <td>
      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python" height="50" width="50"  />
    </td>
-
+<td>
+  <p>
+  <a href ="https://www.credly.com/badges/4a59b99d-66b6-4e7a-8a55-e4edfb2dc8c9">  target="_blank" rel="noreferrer"> <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Spark_Level_1_ver_2_-_CC_-_2019.png" alt="spark level 1" height="50" width="50" />
+  
+</td>
    
   </tr>
 </table>
