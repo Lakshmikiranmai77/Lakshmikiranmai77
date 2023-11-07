@@ -26,17 +26,25 @@
 <table>
   <tr>
     <td>
-<p>
-  <a href ="https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e"  target="_blank" rel="noreferrer"> <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" alt="Digital Developer Conference: Machine Learning Track"  height="50" width="50" /></a>
-   </td>
+        <a href ="https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e"  target="_blank" rel="noreferrer"> 
+         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" 
+           alt="Digital Developer Conference: Machine Learning Track"  height="70" width="70" />
+        </a>
+    </td>
 
 <td>
-   <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Analysis_using_Python.png" alt="Data Analysis using Python" height="50" width="50"  />
+  <a href ="https://www.credly.com/badges/979e7e21-d02a-4e52-957b-b5e3d53d6b05"  target="_blank" rel="noreferrer"> 
+         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Analysis_using_Python.png" 
+           alt="Data Analysis using Python" height="70" width="70" />
+  </a>        
 </td>
 
 
    <td>
-      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png" alt="Big Data Foundations - Level 2" height="50" width="50"  />
+     <a href ="https://www.credly.com/badges/dc995fca-d391-48a9-9ee4-795e61be54a4"  target="_blank" rel="noreferrer"> 
+         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png" 
+           alt="Big Data Foundations - Level 2" height="70" width="70" /> 
+           </a>
    </td>
 
  <td>
