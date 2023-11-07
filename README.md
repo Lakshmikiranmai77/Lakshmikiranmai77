@@ -83,8 +83,8 @@
     </td>
     
   
-    <td>
-  <a href ="https://www.credly.com/badges/c0094f2b-2863-4efc-879c-5f552fb4a467" target="_blank" rel="noreferrer"> 
+  <td>
+      <a href ="https://www.credly.com/badges/c0094f2b-2863-4efc-879c-5f552fb4a467" target="_blank" rel="noreferrer"> 
        <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
          alt="Cloudcore" height="70" width="70" />
     </a>
