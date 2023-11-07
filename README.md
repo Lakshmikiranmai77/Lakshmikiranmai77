@@ -22,6 +22,21 @@
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
 
 
+<h3 align="left">Badges:</h3>
+<table>
+  <tr>
+    <td>
+      <img src="[https://github.com/ndrohith09/ndrohith09/assets/73429989/40de1a87-9da4-4876-ab1f-5c105706080c](https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e)" alt="Digital Developer Conference: Machine Learning Track" />
+    </td>
+    <td>
+      <img src="https://github.com/ndrohith09/ndrohith09/assets/73429989/aa0ea163-9ef5-4e20-ada1-402164cd2cb3" alt="participation-prize" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 <h3 align="left">Catch me up at : </h3>
 <p>
   <a href="https://www.linkedin.com/in/guduru-lakshmi-kiranmai-4a8447178/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Lakshmi kiranmai" height="30" width="40" /></a>
