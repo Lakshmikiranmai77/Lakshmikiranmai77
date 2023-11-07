@@ -9,12 +9,13 @@
 - 🏛 Department :   School of Computing
   
 - 🎓 Tenure : Spring 2022 - Fall 2023
-  # Hackathon : I-Innovate - India's First 1 Million Seconds Non Stop Online Hackathon organizes by Telangana State Innovation Cell logo
+  # Hackathon
+  Participated in I-Innovate - India's First 1 Million Seconds Non Stop Online Hackathon
 - 💬 Ask me about :  Java Frameworks , AWS, Basic leve; Cloud computing  and Devops Tools  
      Frameworks- :  **Java, React.js, spring and Spring Boot**
      DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
 
-- 🌱 I’m currently learning : **AWS,Azure,Node.js**
+- 🌱 I’m currently learning : **AWS,Node.js**
   
 - 🔭 I’m currently working on : Freelance Projects 
   
