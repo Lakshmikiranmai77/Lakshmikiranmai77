@@ -34,7 +34,7 @@
     </td>
 
    <td>
-      <img src=" https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png"alt=" Big Data Foundations - Level 2" />
+      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png" alt=" Big Data Foundations - Level 2" />
    </td>
    
   </tr>
