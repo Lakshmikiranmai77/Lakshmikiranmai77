@@ -27,7 +27,7 @@
   <tr>
     <td>
       <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" alt="Digital Developer Conference: Machine Learning Track" />
-    </td>
+ height="50" width="50"    </td>
 
 <td>
    <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Analysis_using_Python.png" alt="Data Analysis using Python"/>
