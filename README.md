@@ -75,8 +75,6 @@
          alt="spark level 1" height="70" width="70" />
      </a>
     </td>
-
-
     <td>
      <a href ="https://www.credly.com/badges/41567b07-553a-40ca-8b03-96930e22fed1"  target="_blank" rel="noreferrer"> 
        <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/IBM-Blockchain-Foundation-Developer-V2.png" 
@@ -84,7 +82,7 @@
      </a>
     </td>
     
-
+  
     <td>
     <a href ="https://www.credly.com/badges/c0094f2b-2863-4efc-879c-5f552fb4a467" target="_blank" rel="noreferrer"> 
        <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Cloud_Core_-_Developer_Skills_Network_-_v3.png"
