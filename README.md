@@ -33,9 +33,9 @@
    <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Analysis_using_Python.png" alt="Data Analysis using Python"/>
 </td>
 
-    <td>
-      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python - Level 2"/>
-    </td>
+   <td>
+     <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python"/>
+   </td>
 
    <td>
       <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png" alt="Big Data Foundations - Level 2" />
