@@ -26,20 +26,20 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" alt="Digital Developer Conference: Machine Learning Track" />
- height="50" width="50"    </td>
+      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" alt="Digital Developer Conference: Machine Learning Track" height="50" width="50"   />
+   </td>
 
 <td>
-   <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Analysis_using_Python.png" alt="Data Analysis using Python"/>
+   <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Data_Analysis_using_Python.png" alt="Data Analysis using Python" height="50" width="50"  />
 </td>
 
 
    <td>
-      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png" alt="Big Data Foundations - Level 2" />
+      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Big_Data_Found_Level_2_-_CC_v2.png" alt="Big Data Foundations - Level 2" height="50" width="50"  />
    </td>
 
    <td>
-     <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python"/>
+     <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Applied_Data_Science_with_Python.png" alt="Applied Data Science with Python" height="50" width="50"  />
    </td>
 
    
