@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>
-      <img src="[https://github.com/ndrohith09/ndrohith09/assets/73429989/40de1a87-9da4-4876-ab1f-5c105706080c](https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e)" alt="Digital Developer Conference: Machine Learning Track" />
+      <img src="https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" alt="Digital Developer Conference: Machine Learning Track" />
     </td>
     <td>
       <img src="https://github.com/ndrohith09/ndrohith09/assets/73429989/aa0ea163-9ef5-4e20-ada1-402164cd2cb3" alt="participation-prize" />
