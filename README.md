@@ -17,7 +17,7 @@
   
 - 🔭 I’m currently working on : Freelance Projects 
   
-- 📫 How to reach me : **Luckyfreelancer.co.in@gmail.com** 
+- 📫 How to reach me : **Luckyfreelancer.co.in@gmail.com** | **Kiranmaichowdary717@gmail.com**
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
 
