@@ -61,13 +61,6 @@
            alt="Applied Data Science with Python" height="70" width="70" /> 
       </a>
    </td>
-   
-   <td>
-     <a href ="https://www.credly.com/badges/4a59b99d-66b6-4e7a-8a55-e4edfb2dc8c9"  target="_blank" rel="noreferrer"> 
-       <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Spark_Level_1_ver_2_-_CC_-_2019.png" 
-         alt="spark level 1" height="70" width="70" />
-     </a>
-    </td>
 
    <td>
     <a href ="https://www.credly.com/badges/79b90ebb-21db-40a2-bba3-45998dece8e3" target="_blank" rel="noreferrer"> 
@@ -75,6 +68,13 @@
          alt="Blockchain Essentialsv2" height="70" width="70" />
     </a>
    </td>
+   
+   <td>
+     <a href ="https://www.credly.com/badges/4a59b99d-66b6-4e7a-8a55-e4edfb2dc8c9"  target="_blank" rel="noreferrer"> 
+       <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Spark_Level_1_ver_2_-_CC_-_2019.png" 
+         alt="spark level 1" height="70" width="70" />
+     </a>
+    </td>
 
 <td>
     <a href ="https://www.credly.com/badges/c0094f2b-2863-4efc-879c-5f552fb4a467" target="_blank" rel="noreferrer"> 
