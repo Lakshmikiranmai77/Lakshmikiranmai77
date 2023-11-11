@@ -17,18 +17,21 @@
   
 - Web and Mobile Development : Innogeecks Technologies.
 
-  <h3 align="left"> Marathons & Hackathon: </h3>
+<h3 align="left"> Marathons & Hackathon: </h3>
 -  Smart India Hackathon 2018 - Non-stop digital Product development competition.
 -  Innovate - India's First 1 Million Seconds Non Stop Online Hackathon.
 -  Content Writing Marathon 2020 organized by Stumagz.
   
-<h3 align="left"> Projects: </h3>
-1) Web portal for Jana Jagruthi Seva Sadhan
+<h3 align="left"> Projects: </h3> 
+  1. Web portal for Jana Jagruthi Seva Sadhan.
 2) Blockchain Applications
-- To develop a Decentralized application to demonstrate the usage of cryptocurrency through Ethereumblockchain.
-- Create and Transact on Ethereum Private Blockchain
+ To develop a Decentralized application to demonstrate the usage of cryptocurrency through Ethereumblockchain.
+Create and Transact on Ethereum Private Blockchain
+  
 3) Gyan Kasouthi
+
 4) Slendit
+
 5) Heart Disease Prediction Web App
   
   
@@ -37,7 +40,8 @@
      DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
   
 - 🔭 I’m currently working on : Freelance Projects
-  <h3 align="left"> 🌱 Previous pojects: </h3>
+Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
+  Extra Talents : Designing beautiful Mandalas
 
   
   //🌱 I’m currently learning : **AWS,Node.js**
