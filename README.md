@@ -23,7 +23,8 @@
 -  Content Writing Marathon 2020 organized by Stumagz.
   
 <h3 align="left"> Projects: </h3> 
-  1. Web portal for Jana Jagruthi Seva Sadhan.
+      1. Web portal for Jana Jagruthi Seva Sadhan.
+      
 2) Blockchain Applications
  To develop a Decentralized application to demonstrate the usage of cryptocurrency through Ethereumblockchain.
 Create and Transact on Ethereum Private Blockchain
