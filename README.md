@@ -9,16 +9,39 @@
 - 🏛 Department :   School of Computing
   
 - 🎓 Tenure : Spring 2022 - Fall 2023
+<h3 align="left"> Internships: </h3>
 
-  <h3 align="left"> Hackathon: </h3>
-  Participated in I-Innovate - India's First 1 Million Seconds Non Stop Online Hackathon
+- Worked on Employee Assessment Applications for ETTC in  South Central Railway.
+
+- Industrial intern on Core Networking of ISP’s and IP Technologies from Bharat Sanchar Nigam Limited (BSNL) Krishna SSA.
+  
+- Web and Mobile Development : Innogeecks Technologies.
+
+  <h3 align="left"> Marathons & Hackathon: </h3>
+-  Smart India Hackathon 2018 - Non-stop digital Product development competition.
+-  Innovate - India's First 1 Million Seconds Non Stop Online Hackathon.
+-  Content Writing Marathon 2020 organized by Stumagz.
+  
+<h3 align="left"> Projects: </h3>
+1) Web portal for Jana Jagruthi Seva Sadhan
+2) Blockchain Applications
+- To develop a Decentralized application to demonstrate the usage of cryptocurrency through Ethereumblockchain.
+- Create and Transact on Ethereum Private Blockchain
+3) Gyan Kasouthi
+4) Slendit
+5) Heart Disease Prediction Web App
+  
+  
 - 💬 Ask me about :  Java Frameworks , AWS, Basic leve; Cloud computing  and Devops Tools  
      Frameworks- :  **Java, React.js, spring and Spring Boot**
      DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
-
-- 🌱 I’m currently learning : **AWS,Node.js**
   
-- 🔭 I’m currently working on : Freelance Projects 
+- 🔭 I’m currently working on : Freelance Projects
+  <h3 align="left"> 🌱 Previous pojects: </h3>
+
+  
+  //🌱 I’m currently learning : **AWS,Node.js**
+  
   
 - 📫 How to reach me : **Luckyfreelancer.co.in@gmail.com** | **Kiranmaichowdary717@gmail.com**
   
