@@ -19,7 +19,9 @@
 
 <h3 align="left"> Marathons & Hackathon: </h3>
 -  Smart India Hackathon 2018 - Non-stop digital Product development competition.
--  Innovate - India's First 1 Million Seconds Non Stop Online Hackathon.
+
+-  I Innovate - India's First 1 Million Seconds Non Stop Online Hackathon.
+  
 -  Content Writing Marathon 2020 organized by Stumagz.
   
 <h3 align="left"> Projects: </h3> 
