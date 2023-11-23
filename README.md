@@ -1,4 +1,14 @@
+![](Bottom_up.svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=1434A4&vCenter=true&width=600&height=70&lines=Hi+there+,+I+am+Lakshmi+kiranmai+Guduru;)](https://git.io/typing-svg)
+![counter](https://eng64hrnquaxti9.m.pipedream.net)
+---
+ 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+<!--
 ### <h1 align="center"> Hi there 👋, I'm Lakshmi Kiranmai ![counter](https://eng64hrnquaxti9.m.pipedream.net)</h1>
+<h3 align="center">A passionate Software developer located in Wichita, KS </h3>
+-->
+
 <h3 align="center">A passionate Software developer located in Wichita, KS </h3>
 <h2 align ="Left"> Profile</h2>
 
@@ -47,8 +57,9 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
   Extra Talents : Designing beautiful Mandalas
 
   
-  //🌱 I’m currently learning : **AWS,Node.js**
-  
+  <!--🌱 I’m currently learning : **AWS,Node.js**
+
+  -->
   
 - 📫 How to reach me : **Luckyfreelancer.co.in@gmail.com** | **Kiranmaichowdary717@gmail.com**
   
