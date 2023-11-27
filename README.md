@@ -19,6 +19,7 @@
 - 🏛 Department :   School of Computing
   
 - 🎓 Tenure : Spring 2022 - Fall 2023
+  
 <h3 align="left"> Internships: </h3>
 
 - Worked on Employee Assessment Applications for ETTC in  South Central Railway.
@@ -242,6 +243,9 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a> 
   -->
+
+
+  
   </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsensenig&show_icons=true&locale=en&layout=compact" alt="rsensenig" /></p>
