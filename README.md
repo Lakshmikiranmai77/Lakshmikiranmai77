@@ -256,4 +256,6 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsensenig&show_icons=true&locale=en&layout=compact" alt="rsensenig" /></p>
 
+<!--
 <p><img align="center" src="https://camo.githubusercontent.com/885263289e5b8d2e890e89a17cb4dda15ab9e71d27a9135c3c6d0669180f5207/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e64726f68697468303926" alt="Lakshmikiranmai77"/> </p>
+-->
