@@ -29,7 +29,7 @@
 - Web and Mobile Development : Innogeecks Technologies.
 
 <h3 align="left"> Marathons & Hackathon: </h3>
--  Smart India Hackathon 2018 - Non-stop digital Product development competition.
+ -  Smart India Hackathon 2018 - Non-stop digital Product development competition.
 
 -  I Innovate - India's First 1 Million Seconds Non Stop Online Hackathon.
   
