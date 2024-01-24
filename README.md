@@ -12,13 +12,12 @@
 <h3 align="center">A passionate Software developer located in Wichita, KS </h3>
 <h2 align ="Left"> Profile</h2>
 
-- 👩‍🎓 Shocker :  Graduate student at Wichita State University
+- 👩‍🎓 Shocker🎓 :  Graduate student at Wichita State University
   
 - 🗞 Professional Accrediation : Masters in Computer Science
   
 - 🏛 Department :   School of Computing
   
-- 🎓 Tenure : Spring 2022 - Fall 2023
   
 <h3 align="left"> Internships: </h3>
 
