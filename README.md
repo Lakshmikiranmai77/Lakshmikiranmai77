@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Software developer located in Wichita, KS </h3>
 -->
 
-<h3 align="center">A passionate Software developer located in Wichita, KS </h3>
+<h3 align="center">A passionate Software developer located in United states</h3>
 <h2 align ="Left"> Profile</h2>
 
 - 👩‍🎓 Shocker🎓 :  Graduate student at Wichita State University
