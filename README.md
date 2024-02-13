@@ -59,7 +59,7 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 
   -->
   
-- 📫 How to reach me : **Luckyfreelancer.co.in@gmail.com** | **Kiranmaichowdary717@gmail.com**
+- 📫 How to reach me : **Lakshmikiranmai777@Outlook.com** 
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
 
