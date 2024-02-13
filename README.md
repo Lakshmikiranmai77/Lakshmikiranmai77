@@ -12,7 +12,7 @@
 <h3 align="center">A passionate Software developer located in United states</h3>
 <h2 align ="Left"> Profile</h2>
 
-- 👩‍🎓 Bachelors🎓 :  Graduate student from JNTUK
+- 🎓 Graduate : student from JNTUK👩‍🎓
   
 - 🗞 Professional Accrediation : Bachelors in Computer Science
 
@@ -26,14 +26,14 @@
 - Web and Mobile Development : Innogeecks Technologies.
 
 <h3 align="left"> Marathons & Hackathon: </h3>
- -  Smart India Hackathon 2018 - Non-stop digital Product development competition.
+ -  Smart India Hackathon - Non-stop digital Product development competition.
 
 -  I Innovate - India's First 1 Million Seconds Non Stop Online Hackathon.
   
--  Content Writing Marathon 2020 organized by Stumagz.
+-  Content Writing Marathons organized by Stumagz and few other Prestigious companies.
   
 <h3 align="left"> Projects: </h3> 
-      1. Web portal for Jana Jagruthi Seva Sadhan.
+1) Web portal for Jana Jagruthi Seva Sadhan.
       
 2) Blockchain Applications
  To develop a Decentralized application to demonstrate the usage of cryptocurrency through Ethereumblockchain.
