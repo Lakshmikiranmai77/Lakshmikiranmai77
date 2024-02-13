@@ -146,10 +146,10 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 <p>
 <a href="https://www.linkedin.com/in/lakshmi-kiranmai-g-265867130/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="70"></a>
 <a href="https://github.com/Lakshmikiranmai77/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="70"></a>
-<a href="https://twitter.com/Kiranmaiguduru1/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="70"></a>
 </p>
 
-<!-- 
+<!--
+  <a href="https://twitter.com/Kiranmaiguduru1/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="70"></a>
 <h3 align="left">Catch me up at : </h3>
 <p>
   <a href="https://www.linkedin.com/in/guduru-lakshmi-kiranmai-4a8447178/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="Lakshmi kiranmai" height="40" width="40" /></a>
