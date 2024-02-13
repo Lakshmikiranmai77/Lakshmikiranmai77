@@ -12,12 +12,10 @@
 <h3 align="center">A passionate Software developer located in United states</h3>
 <h2 align ="Left"> Profile</h2>
 
-- 👩‍🎓 Shocker🎓 :  Graduate student at Wichita State University
+- 👩‍🎓 Bachelors🎓 :  Graduate student from JNTUK
   
-- 🗞 Professional Accrediation : Masters in Computer Science
-  
-- 🏛 Department :   School of Computing
-  
+- 🗞 Professional Accrediation : Bachelors in Computer Science
+
   
 <h3 align="left"> Internships: </h3>
 
