@@ -45,7 +45,7 @@ Create and Transact on Ethereum Private Blockchain
 
 5) Heart Disease Prediction Web App
   
-  
+
 - 💬 Ask me about :  Java Frameworks , AWS, Basic leve; Cloud computing  and Devops Tools  
      Frameworks- :  **Java, React.js, spring and Spring Boot**
      DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
