@@ -7,14 +7,16 @@
 <!--
 ### <h1 align="center"> Hi there 👋, I'm Lakshmi Kiranmai ![counter](https://eng64hrnquaxti9.m.pipedream.net)</h1>
 <h3 align="center">A passionate Software developer located in Wichita, KS </h3>
-
 -->
 
-<h3 align="center">A passionate Java Developer located in United states</h3>
+<h3 align="center">A passionate Sr.Full Stack Developer located in United states</h3>
 <h2 align ="Left"> Profile</h2>
-- 🎓 Graduate : student from Wichita State Uiversity👩‍🎓
-- 📫🗞 Professional Accrediation : Masters in Computer Science
 
+- 🎓 Graduate : student from Wichita State Uiversity👩‍🎓
+  
+- 🗞 Professional Accrediation : Masters in Computer Science
+
+  
 <h3 align="left"> Internships: </h3>
 
 - Worked on Employee Assessment Applications for ETTC in  South Central Railway.
@@ -44,7 +46,7 @@ Create and Transact on Ethereum Private Blockchain
 5) Heart Disease Prediction Web App
   
 
-- 💬 Ask me about :  Java Frameworks , AWS, Basics of AI, ML,RL, Cloud computing  and Devops Tools  
+- 💬 Ask me about :  Java Frameworks , AWS, Basic leve; Cloud computing  and Devops Tools  
      Frameworks- :  **Java, React.js, spring and Spring Boot**
      DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
   
@@ -57,7 +59,7 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 
   -->
   
-- 📫 How to reach me : **lkgusa99@gmail.com** 
+- 📫 How to reach me : **Lakshmikiranmai777@Outlook.com** 
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
 
@@ -65,7 +67,6 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 <h3 align="left">Badges:</h3>
 <table>
   <tr>
-    
     <td>
         <a href ="https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e"  target="_blank" rel="noreferrer"> 
          <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" 
