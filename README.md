@@ -52,14 +52,14 @@ Create and Transact on Ethereum Private Blockchain
   
 - 🔭 I’m currently working on : Freelance Projects
 Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
-  Extra Talents : Designing beautiful Mandalas
+- 🌱Extra Talents : Designing beautiful Mandalas
 
   
   <!--🌱 I’m currently learning : **AWS,Node.js**
 
   -->
   
-- 📫 How to reach me : **Lakshmikiranmai777@Outlook.com** 
+- 📫 How to reach me : **Lkgusa99@gmail.com** 
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
 
