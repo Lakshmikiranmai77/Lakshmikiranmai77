@@ -17,7 +17,6 @@
   
 - 🗞 Professional Accrediation : Masters in Computer Science
 
-  
 <h3 align="left"> Internships: </h3>
 
 - Worked on Employee Assessment Applications for ETTC in  South Central Railway.
@@ -68,7 +67,6 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 <h3 align="left">Badges:</h3>
 <table>
   <tr>
- 
     
     <td>
         <a href ="https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e"  target="_blank" rel="noreferrer"> 
