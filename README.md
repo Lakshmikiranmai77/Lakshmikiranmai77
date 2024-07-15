@@ -52,7 +52,7 @@ Create and Transact on Ethereum Private Blockchain
   
 - 🔭 I’m currently working on : Freelance Projects
 Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
-- 🌱Extra Talents : Designing beautiful Mandalas
+- 🌱Extra Talents : Arts, Designing Beautiful Mandalas
 
   
   <!--🌱 I’m currently learning : **AWS,Node.js**
