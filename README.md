@@ -12,9 +12,9 @@
 <h3 align="center">A passionate Sr.Full Stack Developer located in United states</h3>
 <h2 align ="Left"> Profile</h2>
 
-- 🎓 Graduate : student from JNTUK👩‍🎓
+- 🎓 Graduate : student from Wichita State Uiversity👩‍🎓
   
-- 🗞 Professional Accrediation : Bachelors in Computer Science
+- 🗞 Professional Accrediation : Masters in Computer Science
 
   
 <h3 align="left"> Internships: </h3>
@@ -23,7 +23,7 @@
 
 - Industrial intern on Core Networking of ISP’s and IP Technologies from Bharat Sanchar Nigam Limited (BSNL) Krishna SSA.
   
-- Web and Mobile Development : Innogeecks Technologies.
+- Web and Mobile Development(Android) : Innogeecks Technologies.
 
 <h3 align="left"> Marathons & Hackathon: </h3>
  -  Smart India Hackathon - Non-stop digital Product development competition.
