@@ -68,12 +68,7 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 <h3 align="left">Badges:</h3>
 <table>
   <tr>
-  <td>
-        <a href ="https://www.credly.com/badges/046fcbb2-a087-49f5-9133-7b98ea0c3168"  target="_blank" rel="noreferrer"> 
-         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/AWS_Cloud_Pract.png" 
-           alt="AWS Certified Cloud Practitioner"  height="70" width="70" />
-        </a>
-    </td>
+ 
     
     <td>
         <a href ="https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e"  target="_blank" rel="noreferrer"> 
