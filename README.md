@@ -13,7 +13,7 @@
 <h3 align="center">A passionate Java Developer located in United states</h3>
 <h2 align ="Left"> Profile</h2>
 - 🎓 Graduate : student from Wichita State Uiversity👩‍🎓
-- 🗞 Professional Accrediation : Masters in Computer Science
+- 📫🗞 Professional Accrediation : Masters in Computer Science
 
 <h3 align="left"> Internships: </h3>
 
