@@ -26,9 +26,10 @@
 - Web and Mobile Development(Android) : Innogeecks Technologies.
 
 <h3 align="left"> Marathons & Hackathon: </h3>
- -  Smart India Hackathon - Non-stop digital Product development competition.
+
 
 -  I Innovate - India's First 1 Million Seconds Non Stop Online Hackathon.
+-  Smart India Hackathon - Non-stop digital Product development competition.
   
 -  Content Writing Marathons organized by Stumagz and few other Prestigious companies.
   
@@ -46,7 +47,7 @@ Create and Transact on Ethereum Private Blockchain
 5) Heart Disease Prediction Web App
   
 
-- 💬 Ask me about :  Java Frameworks , AWS, Basic leve; Cloud computing  and Devops Tools  
+- 💬 Ask me about :  Java Frameworks, Python, AWS, Basic level Cloud computing and Devops Tools  
      Frameworks- :  **Java, React.js, spring and Spring Boot**
      DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
   
@@ -59,10 +60,9 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 
   -->
   
-- 📫 How to reach me : **Lkgusa99@gmail.com** 
+- 📫 How to reach me : **Kiranmaichowdary717@gmail.com** 
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
-
 
 <h3 align="left">Badges:</h3>
 <table>
