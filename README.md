@@ -63,17 +63,38 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 - 📫 How to reach me : **Kiranmaichowdary717@gmail.com** 
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
-<h3 align="left">Certifications:</h3>
-<table>
-  <tr> <h4 align="left">AWS Certified Cloud Practitioner</h4>
-    <td> 
-        <a href ="https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e"  target="_blank" rel="noreferrer"> 
-         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" 
-           alt="Digital Developer Conference: Machine Learning Track"  height="70" width="70" />
+<h3 align ="Left"> Certifications:</h3>
+
+- **AWS Certified Cloud Practitioner**
+- **Microsoft Certified Azure Fundamentals**
+-  **[PCAP-31-03] PCAP™ – Certified Associate Python Programmer**
+ 
+<table><tr><td> 
+        <a href ="https://www.credly.com/badges/3404661a-91e9-4fdf-b773-72839dad8dbe"  target="_blank" rel="noreferrer"> 
+         <img src= "https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" 
+           alt="[PCAP-31-03] PCAP™ – Certified Associate Python Programmer"  height="90" width="90" />
         </a>
     </td>
- </tr>
+   <td> 
+        <a href ="https://learn.microsoft.com/en-us/users/lakshmikiranmaiguduru-8260/credentials/fe5de6002a5c7526?ref=https%3A%2F%2Fwww.linkedin.com%2F"  target="_blank" rel="noreferrer"> 
+         <img src= "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" 
+           alt="Microsoft Certified: Azure Fundamentals"  height="90" width="90" />
+        </a>
+    </td>
+  <td> 
+        <a href ="https://www.credly.com/badges/046fcbb2-a087-49f5-9133-7b98ea0c3168"  target="_blank" rel="noreferrer"> 
+         <img src= "https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+           alt="AWS Certified Cloud Practitioner"  height="90" width="90" />
+        </a>
+    </td>
+  
+ </tr> 
 </table>
+ 
+    
+     
+
+
 
     
 <h3 align="left">Badges:</h3>
