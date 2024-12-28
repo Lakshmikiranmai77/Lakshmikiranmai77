@@ -64,7 +64,18 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
 <h3 align="left">Certifications:</h3>
+<table>
+  <tr> <h4 align="left">AWS Certified Cloud Practitioner</h4>
+    <td> 
+        <a href ="https://www.credly.com/badges/e7a51bcd-e5b6-433a-b590-b1667a0db81e"  target="_blank" rel="noreferrer"> 
+         <img src= "https://github.com/Lakshmikiranmai77/Lakshmikiranmai77/blob/main/Dig_Dev_Conf_-_Mach_Learn_Track.png" 
+           alt="Digital Developer Conference: Machine Learning Track"  height="70" width="70" />
+        </a>
+    </td>
+ </tr>
+</table>
 
+    
 <h3 align="left">Badges:</h3>
 <table>
   <tr>
