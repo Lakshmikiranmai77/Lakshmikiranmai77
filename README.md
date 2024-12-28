@@ -63,6 +63,7 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 - 📫 How to reach me : **Kiranmaichowdary717@gmail.com** 
   
 - ⚠️ Caution :  But don't ask me to teach you .  Hahah Just Kidding 😅😂
+<h3 align="left">Certifications:</h3>
 
 <h3 align="left">Badges:</h3>
 <table>
