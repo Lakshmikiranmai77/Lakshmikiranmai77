@@ -1,15 +1,15 @@
 ![](Bottom_up.svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=1434A4&vCenter=true&width=600&height=70&lines=Hi+there+,+I+am+Lakshmi+kiranmai+Guduru;)](https://git.io/typing-svg)
-![counter](https://eng64hrnquaxti9.m.pipedream.net)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=1434A4&vCenter=true&width=600&height=70&lines=Hi+there+,+I+am+Guduru+Lakshmi+kiranmai;)](https://git.io/typing-svg)
+![counter](https://eng64hrnquaxti9.m.pipedream.net) <a href="https://www.github.com/Lakshmikiranmai77" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Lakshmikiranmai77?logo=github&style=for-the-badge&color=ff0f00&labelColor=000000" /></a>
 ---
  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
-<!--
-### <h1 align="center"> Hi there 👋, I'm Lakshmi Kiranmai ![counter](https://eng64hrnquaxti9.m.pipedream.net)</h1>
-<h3 align="center">A passionate Software developer located in Wichita, KS </h3>
--->
 
-<h3 align="center">A passionate Java Developer located in United states</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
+
+
+<h3 align="center">A Passionate Software Engineer Located In United States</h3>
+<h4 align="center">🌍  I'm based in Roundrock, Texas </h4>
 <h2 align ="Left"> Profile</h2>
 
 - 🎓 Graduate : student from Wichita State Uiversity👩‍🎓
@@ -34,11 +34,11 @@
 -  Content Writing Marathons organized by Stumagz and few other Prestigious companies.
   
 <h3 align="left"> Projects: </h3> 
-1) Web portal for Jana Jagruthi Seva Sadhan.
       
-2) Blockchain Applications
- To develop a Decentralized application to demonstrate the usage of cryptocurrency through Ethereumblockchain.
-Create and Transact on Ethereum Private Blockchain
+1) Blockchain Applications
+- To develop a Decentralized application to demonstrate the usage of cryptocurrency through Ethereumblockchain.
+- Create and Transact on Ethereum Private Blockchain
+2) Web portal for Jana Jagruthi Seva Sadhan.
   
 3) Gyan Kasouthi
 
@@ -46,14 +46,15 @@ Create and Transact on Ethereum Private Blockchain
 
 5) Heart Disease Prediction Web App
   
+</n>
 
-- 💬 Ask me about :  Java Frameworks, Python, AWS, Basic level Cloud computing and Devops Tools  
-     Frameworks- :  **Java, React.js, spring and Spring Boot**
-     DevopsTools : **Git, Maven, Jenkins, Ansible, Docker, Kubernetes**
+- 💬 Ask me about :  Java Frameworks, Python, AWS, Basic level Cloud computing and Devops Tools.
+- **Frameworks :** Java, React.js, spring and Spring Boot
+- **DevopsTools :** Git, Maven, Jenkins, Ansible, Docker, Kubernetes
   
-- 🔭 I’m currently working on : Freelance Projects
-Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
-- 🌱Extra Talents : Arts, Designing Beautiful Mandalas
+- 🔭 I’m currently working on : Freelance Projects.
+-  **Special Interests :** Blogging, Content writing, Story Telling & Public Speaking.
+- 🌱Extra Talents : Artist( Designing Beautiful Mandalas,Pencil sketches) and Writer(Books, Short Scripts)
 
   
   <!--🌱 I’m currently learning : **AWS,Node.js**
@@ -68,8 +69,15 @@ Special Interests : Blogging, Content writing, Story Telling & Public Speaking.
 - **AWS Certified Cloud Practitioner**
 - **Microsoft Certified Azure Fundamentals**
 -  **[PCAP-31-03] PCAP™ – Certified Associate Python Programmer**
+-  **[PCPP-32-101] PCPP1 – Certified Professional Python Programmer Level 1**
  
 <table><tr><td> 
+        <a href ="https://www.credly.com/badges/1592aee8-f26e-4800-8b57-f8eb2424bc72"  target="_blank" rel="noreferrer"> 
+         <img src= "https://images.credly.com/size/340x340/images/37e26478-d80c-43e8-80eb-ec492f3a26c1/image.png" 
+           alt="[PCPP-32-101] PCPP1 – Certified Professional Python Programmer Level 1"  height="90" width="90" />
+        </a>
+    </td>
+  <td> 
         <a href ="https://www.credly.com/badges/3404661a-91e9-4fdf-b773-72839dad8dbe"  target="_blank" rel="noreferrer"> 
          <img src= "https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" 
            alt="[PCAP-31-03] PCAP™ – Certified Associate Python Programmer"  height="90" width="90" />
